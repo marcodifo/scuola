@@ -1,0 +1,14 @@
+<catalog>
+  <book category="Fantasy">
+    <title>Il Signore degli Anelli</title>
+    <author>J.R.R. Tolkien</author>
+  </book>
+  <book category="Mystery">
+    <title>Sherlock Holmes</title>
+    <author>Arthur Conan Doyle</author>
+  </book>
+  <book category="Science Fiction">
+    <title>Fondazione</title>
+    <author>Isaac Asimov</author>
+  </book>
+</catalog>
