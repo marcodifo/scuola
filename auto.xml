@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <autos>
-  <auto nome="S280">
-    <marca>Mercedes</marca>
-    <modello>S280</modello>
+  <auto nome="Auto1">
+    <marca>Marca1</marca>
+    <modello>Modello1</modello>
+    <anno>2022</anno>
+  </auto>
+  <auto nome="Auto2">
+    <marca>Marca2</marca>
+    <modello>Modello2</modello>
     <anno>2023</anno>
   </auto>
-  <!-- Aggiungi altri dati sulle auto qui -->
+  <!-- Altre auto -->
 </autos>
