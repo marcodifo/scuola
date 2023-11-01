@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autos>
+  <auto nome="S280">
+    <marca>Mercedes</marca>
+    <modello>S280</modello>
+    <anno>2023</anno>
+  </auto>
+  <!-- Aggiungi altri dati sulle auto qui -->
+</autos>
